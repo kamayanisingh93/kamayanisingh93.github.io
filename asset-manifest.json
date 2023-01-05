@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58462fbc.css",
+    "main.js": "/static/js/main.5d649127.js",
+    "static/media/u-said-it-v13-1167.mp3": "/static/media/u-said-it-v13-1167.949cee7ea4a6ad9499db.mp3",
+    "static/media/w2.png": "/static/media/w2.d951650b79abc3c59440.png",
+    "static/media/w3.png": "/static/media/w3.52efef06e4eadaf8beaf.png",
+    "static/media/w1.png": "/static/media/w1.ad37f5cbc2424d94e2a6.png",
+    "static/media/w10.png": "/static/media/w10.1011759eaa160e487297.png",
+    "static/media/w8.png": "/static/media/w8.ef2003454bb5aa0c8a04.png",
+    "static/media/w9.png": "/static/media/w9.424e00f982fcf777b66a.png",
+    "static/media/w11.png": "/static/media/w11.55a92039a89f7501060c.png",
+    "static/media/w7.png": "/static/media/w7.2940855fb3beecae8651.png",
+    "static/media/52239882-removebg-preview.png": "/static/media/52239882-removebg-preview.ab91c12d2b5c55f14de7.png",
+    "static/media/me.png": "/static/media/me.7b79c776cd6fdfbac499.png",
+    "static/media/w5.png": "/static/media/w5.8f9a0fd1c6746eef4cfe.png",
+    "static/media/graphic-designer.png": "/static/media/graphic-designer.ac5cc1edae28e3741537.png",
+    "static/media/w6.png": "/static/media/w6.f86885987c468b8bab50.png",
+    "static/media/w4.png": "/static/media/w4.dbb44547436f5770d7b6.png",
+    "static/media/w12.png": "/static/media/w12.6f2dace1bae5b2d255a1.png",
+    "index.html": "/index.html",
+    "main.58462fbc.css.map": "/static/css/main.58462fbc.css.map",
+    "main.5d649127.js.map": "/static/js/main.5d649127.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58462fbc.css",
+    "static/js/main.5d649127.js"
+  ]
+}
